@@ -1,0 +1,8 @@
+spam_venv/
+__pycache__/
+emails.csv
+spam_ham_dataset.csv
+spam.csv
+train_model.ipynb
+load_model.ipynb
+model_20240920-215223.pth
